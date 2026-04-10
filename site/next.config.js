@@ -11,7 +11,7 @@ const nextConfig = {
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
-  basePath: '/rblx-kasm/1.0',
+  basePath: '/rblx-kasm/1.1',
   trailingSlash: true,
   images: {
     unoptimized: true,
