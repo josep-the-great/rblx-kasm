@@ -5,9 +5,9 @@ const nextConfig = {
   distDir: '../public',
   env: {
     name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    description: 'The unofficial store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://josep-the-great.github.io/rblx-kasm/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
